@@ -1,7 +1,5 @@
 const jambi = "jambi";
 console.log(typeof jambi);
-let skink = "skink";
-console.log(typeof skink);
 const string1 = "bar";
 let bool1 = false;
 const num1 = 23;
