@@ -16,8 +16,8 @@ function threeModTwo() {
   console.log(3 % 2);
 }
 //function expression
-/*let age = 18;
-const checkDrivingAge = function() {
+let age = 18;
+/*const checkDrivingAge = function() {
   if (age >= 16) {
     console.log(true);
   } else {
