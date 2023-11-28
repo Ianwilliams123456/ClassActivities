@@ -1,0 +1,40 @@
+.doghead {
+    font-size: larger;
+    font-style: bold;
+    font: helvetica;
+}
+#doglist > li {
+    font-size: medium;
+    font-style: normal;
+}
+* {
+    border: 1px solid black;
+    width: fit-content;
+    padding: 5px;
+    margin: auto;
+    text-align: center;
+}
+#ordernow, #orderagain {
+    border: 2px solid salmon;
+    font-size: small;
+    padding-bottom: 7px;
+}
+img {
+    width: 150px;
+    height: 150px;
+}
+#linktree {
+    border: 15px dashed gold;
+    font-size: medium;
+    padding-left: 10px;
+}
+li:hover {
+    color: aquamarine;
+}
+link:active {
+    color: red;
+}
+.dogbrother + p {
+    font-size: larger;
+    color: blue;
+}
