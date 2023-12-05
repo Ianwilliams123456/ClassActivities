@@ -25,7 +25,6 @@ let age = 18;
   }
 };*/
 //function declaration
-let age = 18;
 function checkDrivingAge() {
   if (age >= 16) {
     console.log(true);

@@ -1,6 +1,6 @@
 .doghead {
     font-size: larger;
-    font-style: bold;
+    font-style: italic;
     font: helvetica;
 }
 #doglist > li {
@@ -34,7 +34,11 @@ li:hover {
 link:active {
     color: red;
 }
-.dogbrother + p {
+.dogbrother ~ p {
+    font-size: larger;
+    color: blue;
+}
+.jiminy {
     font-size: larger;
     color: blue;
 }
